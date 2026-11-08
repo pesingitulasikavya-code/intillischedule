@@ -1,0 +1,2 @@
+student_1794138199362905493|Bob Turing|bob.turing@dsahub.edu|password123|
+student_1794138175996586676|Alice Hopper|alice.hopper@dsahub.edu|password123|u1-avl-trees

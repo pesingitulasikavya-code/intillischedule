@@ -1,0 +1,6 @@
+{
+  "name": "DSA Hub",
+  "description": "Interactive Data Structures & Algorithms platform featuring visual playgrounds, complete time and space complexity matrices, and student progress tracking powered by C++ backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
